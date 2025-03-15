@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi there, I'm Fazaary 👋
 
-<!--
-**Fazaarycode/Fazaarycode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> "A lot of my work is in corporate repositories. This is my playground!"
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 About Me:
+- 🔭 Currently working on high-impact corporate code (hidden for now!)
+- ⚙️ I work mostly with **Node.js, React, MongoDB, TypeScript**
+- 🌱 Always learning new tech and improving clean code practices
+- 💬 Ask me about backend, APIs, and automating boring stuff!
+- 📫 Connect on [LinkedIn](https://www.linkedin.com/in/fazaary/)
+
+---
+
+### ⚡ GitHub Stats & Tools I Love
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
+
+![Fazaary's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fazaarycode&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fazaarycode&layout=compact&theme=radical)](https://github.com/Fazaarycode)
+
+---
+
+> ⚙️ Work Hard | 🧠 Learn Always | 🚀 Build Cool Stuff
