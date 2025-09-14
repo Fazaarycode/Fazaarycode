@@ -1,33 +1,57 @@
-# Hi there, I'm Fazaary 👋
+Hi there, I'm Fazaary 👋
 
-> "A lot of my work is in corporate repositories. This is my playground!"
+Founder & CEO @ RaynX.ai
 
----
+🚀 What I Do
 
-### 💻 About Me:
-- 🔭 Currently working on high-impact corporate code (hidden for now!)
-- ⚙️ I work mostly with **Node.js, React, MongoDB, TypeScript**
-- 🌱 Always learning new tech and improving clean code practices
-- 💬 Ask me about backend, APIs, and automating boring stuff!
-- 📫 Connect on [LinkedIn](https://www.linkedin.com/in/fazaary/)
+At RaynX.ai, we partner with entrepreneurs and companies to:
 
----
 
-### ⚡ GitHub Stats & Tools I Love
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
----
 
-### 📊 GitHub Stats
+Identify practical AI opportunities that align with business goals
 
-![Fazaary's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fazaarycode&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fazaarycode&layout=compact&theme=radical)](https://github.com/Fazaarycode)
 
----
+Build AI-powered SaaS solutions that scale fast
 
-> ⚙️ Work Hard | 🧠 Learn Always | 🚀 Build Cool Stuff
+
+
+Automate workflows, cut costs, and unlock new revenue streams
+
+
+
+Guide teams through the AI adoption journey — from strategy to execution
+
+We don’t do hype. We focus on results: faster operations, smarter products, and measurable ROI.
+
+🤝 Work With Us
+
+If your company is exploring how AI can:
+
+
+
+
+
+Reduce operational bottlenecks
+
+
+
+Enhance customer experience
+
+
+
+Unlock new digital products
+
+📩 Let’s talk.
+👉 Book your first AI consultation: raynxai.com/ai-consultation
+
+For SaaS inquiry, drop a request to raynxai.com/consultation
+
+🌍 Why RaynX.ai
+
+AI is not the future — it’s the present competitive edge.
+Most companies are experimenting. Few are scaling. We help you close that gap.
+
+⚙️ Build with clarity | 🧠 Adopt AI with confidence | 🚀 Scale with RaynX.ai
